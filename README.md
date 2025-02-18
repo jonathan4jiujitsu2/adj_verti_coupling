@@ -1,0 +1,1 @@
+# adj_verti_coupling
